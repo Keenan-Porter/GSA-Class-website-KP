@@ -16,3 +16,6 @@ Assignment #4:
 
 Assignment #5:
 - [code](https://github.com/Keenan-Porter/GSA_Particles_KP.github.io), [website](https://keenan-porter.github.io/GSA_Particles_KP.github.io/), [explanation](https://github.com/Keenan-Porter/GSA-Class-website-KP/blob/main/Assignment_A6.md)
+
+Final Project:
+- [code](https://github.com/Keenan-Porter/GSA_KMP_Final_Boids.github.io), [website](https://keenan-porter.github.io/GSA_KMP_Final_Boids.github.io/), [explanation]()
